@@ -1,2 +1,6 @@
 # Default ignored files
 ccxt/
+__pycache__/
+position.db
+settings.db
+error_logs.txt
