@@ -36,8 +36,7 @@ class User:
 
 class UserActivation:
     def __init__(self, parent):
-        """Класс активации пользователя урезан до постоянного разрешения
-        КТ
+        """Класс активации пользователя урезан
         """
         self.parent = parent
 
